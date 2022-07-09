@@ -35,5 +35,9 @@
   
   - ppepin34@gmail.com
   - [github](github.com/ppepin34)
+  
+  ## Link to usage video
+  
+  Video[https://youtu.be/fHjsdPPgswc]
 
   
