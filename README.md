@@ -38,6 +38,6 @@
   
   ## Link to usage video
   
-  Video[https://youtu.be/fHjsdPPgswc]
+  [Video](https://youtu.be/fHjsdPPgswc)
 
   
